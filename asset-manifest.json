@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/WaseemIssa_FireChat/static/css/main.b81e5f29.chunk.css",
-    "main.js": "/WaseemIssa_FireChat/static/js/main.a23aa737.chunk.js",
-    "main.js.map": "/WaseemIssa_FireChat/static/js/main.a23aa737.chunk.js.map",
+    "main.js": "/WaseemIssa_FireChat/static/js/main.333e7182.chunk.js",
+    "main.js.map": "/WaseemIssa_FireChat/static/js/main.333e7182.chunk.js.map",
     "runtime-main.js": "/WaseemIssa_FireChat/static/js/runtime-main.16249489.js",
     "runtime-main.js.map": "/WaseemIssa_FireChat/static/js/runtime-main.16249489.js.map",
     "static/css/2.d6008dad.chunk.css": "/WaseemIssa_FireChat/static/css/2.d6008dad.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.d6008dad.chunk.css",
     "static/js/2.191b9531.chunk.js",
     "static/css/main.b81e5f29.chunk.css",
-    "static/js/main.a23aa737.chunk.js"
+    "static/js/main.333e7182.chunk.js"
   ]
 }
