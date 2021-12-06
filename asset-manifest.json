@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/WaseemIssa_FireChat/static/css/main.c521eb38.chunk.css",
+    "main.css": "/WaseemIssa_FireChat/static/css/main.0312a832.chunk.css",
     "main.js": "/WaseemIssa_FireChat/static/js/main.a23aa737.chunk.js",
     "main.js.map": "/WaseemIssa_FireChat/static/js/main.a23aa737.chunk.js.map",
     "runtime-main.js": "/WaseemIssa_FireChat/static/js/runtime-main.16249489.js",
@@ -10,14 +10,14 @@
     "static/js/2.191b9531.chunk.js.map": "/WaseemIssa_FireChat/static/js/2.191b9531.chunk.js.map",
     "index.html": "/WaseemIssa_FireChat/index.html",
     "static/css/2.d6008dad.chunk.css.map": "/WaseemIssa_FireChat/static/css/2.d6008dad.chunk.css.map",
-    "static/css/main.c521eb38.chunk.css.map": "/WaseemIssa_FireChat/static/css/main.c521eb38.chunk.css.map",
+    "static/css/main.0312a832.chunk.css.map": "/WaseemIssa_FireChat/static/css/main.0312a832.chunk.css.map",
     "static/js/2.191b9531.chunk.js.LICENSE.txt": "/WaseemIssa_FireChat/static/js/2.191b9531.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.16249489.js",
     "static/css/2.d6008dad.chunk.css",
     "static/js/2.191b9531.chunk.js",
-    "static/css/main.c521eb38.chunk.css",
+    "static/css/main.0312a832.chunk.css",
     "static/js/main.a23aa737.chunk.js"
   ]
 }
