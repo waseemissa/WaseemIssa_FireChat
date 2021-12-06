@@ -1,14 +1,16 @@
 {
   "files": {
     "main.css": "/WaseemIssa_FireChat/static/css/main.aa3de953.chunk.css",
-    "main.js": "/WaseemIssa_FireChat/static/js/main.a23aa737.chunk.js",
-    "main.js.map": "/WaseemIssa_FireChat/static/js/main.a23aa737.chunk.js.map",
+    "main.js": "/WaseemIssa_FireChat/static/js/main.0f4dd9db.chunk.js",
+    "main.js.map": "/WaseemIssa_FireChat/static/js/main.0f4dd9db.chunk.js.map",
     "runtime-main.js": "/WaseemIssa_FireChat/static/js/runtime-main.16249489.js",
     "runtime-main.js.map": "/WaseemIssa_FireChat/static/js/runtime-main.16249489.js.map",
     "static/css/2.d6008dad.chunk.css": "/WaseemIssa_FireChat/static/css/2.d6008dad.chunk.css",
     "static/js/2.191b9531.chunk.js": "/WaseemIssa_FireChat/static/js/2.191b9531.chunk.js",
     "static/js/2.191b9531.chunk.js.map": "/WaseemIssa_FireChat/static/js/2.191b9531.chunk.js.map",
     "index.html": "/WaseemIssa_FireChat/index.html",
+    "service-worker.js": "/WaseemIssa_FireChat/service-worker.js",
+    "service-worker.js.map": "/WaseemIssa_FireChat/service-worker.js.map",
     "static/css/2.d6008dad.chunk.css.map": "/WaseemIssa_FireChat/static/css/2.d6008dad.chunk.css.map",
     "static/css/main.aa3de953.chunk.css.map": "/WaseemIssa_FireChat/static/css/main.aa3de953.chunk.css.map",
     "static/js/2.191b9531.chunk.js.LICENSE.txt": "/WaseemIssa_FireChat/static/js/2.191b9531.chunk.js.LICENSE.txt"
@@ -18,6 +20,6 @@
     "static/css/2.d6008dad.chunk.css",
     "static/js/2.191b9531.chunk.js",
     "static/css/main.aa3de953.chunk.css",
-    "static/js/main.a23aa737.chunk.js"
+    "static/js/main.0f4dd9db.chunk.js"
   ]
 }
